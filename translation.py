@@ -1,6 +1,5 @@
 class Translation(object):
-    START_MSG = """`channel button helper`
-   <b>made by @legendoftelegram</b>""" 
+    START_MSG = """`channel button helper`""" 
     HELP = """
 👉 <b>ask dev</b>
 <b>Bot developed by</b> @Legendoftelegram"""
