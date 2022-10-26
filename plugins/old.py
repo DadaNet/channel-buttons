@@ -11,7 +11,8 @@ from sample_config import Config
 from translation import Translation
 
 import pyrogram
-from pyrogram import Client, filters, ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton, Message
+from pyrogram import filters, Client
+from pyrogram.types import (ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton, Message)
 from pyrogram.errors import FloodWait
 
 
